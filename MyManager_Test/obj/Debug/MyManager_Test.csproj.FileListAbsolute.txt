@@ -1,0 +1,11 @@
+D:\Dropbox\2-Projects\MyManager\MyManager_Test\bin\Debug\MyManager_Test.dll
+D:\Dropbox\2-Projects\MyManager\MyManager_Test\bin\Debug\MyManager_Test.pdb
+D:\Dropbox\2-Projects\MyManager\MyManager_Test\bin\Debug\MyManager.dll
+D:\Dropbox\2-Projects\MyManager\MyManager_Test\bin\Debug\MyManager_WPF.exe
+D:\Dropbox\2-Projects\MyManager\MyManager_Test\bin\Debug\nunit.framework.dll
+D:\Dropbox\2-Projects\MyManager\MyManager_Test\bin\Debug\MyManager.pdb
+D:\Dropbox\2-Projects\MyManager\MyManager_Test\bin\Debug\MyManager_WPF.pdb
+D:\Dropbox\2-Projects\MyManager\MyManager_Test\bin\Debug\nunit.framework.xml
+D:\Dropbox\2-Projects\MyManager\MyManager_Test\obj\Debug\MyManager_Test.csprojResolveAssemblyReference.cache
+D:\Dropbox\2-Projects\MyManager\MyManager_Test\obj\Debug\MyManager_Test.dll
+D:\Dropbox\2-Projects\MyManager\MyManager_Test\obj\Debug\MyManager_Test.pdb

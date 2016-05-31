@@ -1,0 +1,17 @@
+D:\Documents\Dropbox\2-Projects\MyManager\bin\Debug\MyManager.exe.config
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\MyManager.exe
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\MyManager.pdb
+D:\Documents\Dropbox\2-Projects\MyManager\bin\Debug\MyManager.exe
+D:\Documents\Dropbox\2-Projects\MyManager\bin\Debug\MyManager.pdb
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\MyManager.csprojResolveAssemblyReference.cache
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\Presentation\Main\MainWindow.baml
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\Presentation\Minimum\MinWindow.baml
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\Presentation\Timer.baml
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\Presentation\Main\MainWindow.g.cs
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\Presentation\Minimum\MinWindow.g.cs
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\Presentation\Timer.g.cs
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\App.g.cs
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\MyManager_MarkupCompile.cache
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\MyManager.g.resources
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\MyManager.Properties.Resources.resources
+D:\Documents\Dropbox\2-Projects\MyManager\obj\Debug\MyManager.csproj.GenerateResource.Cache
