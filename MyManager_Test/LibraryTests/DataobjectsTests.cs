@@ -29,12 +29,12 @@ namespace MyManager_Test.LibraryTests
             {3, new act() {Name = "Activity 2 for Project 2", Key = 2, ProjectKey = 2, CreationDate = DateTime.Now, Description = "Third activity in a dummy test series.", StartDate = DateTime.Parse("01/08.1985"),EndDate = DateTime.Now} }
         };
 
-        public static  List<Project> CreateDummyListOfProjects()
+        public static  List<Project> GetDummyListOfProjects()
         {
             return Projects.Values.ToList();
         }
 
-        public static List<Activity> CreateDummyListOfActivities()
+        public static List<Activity> GetDummyListOfActivities()
         {
             return Activities.Values.ToList();
         }

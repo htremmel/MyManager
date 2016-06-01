@@ -8,7 +8,7 @@ namespace MyManager.Database
 {
     partial class Project
     {
-        [PrimaryKeyAttribute] public int Key { get; set; }
+        [PrimaryKey] public int Key { get; set; }
         public string Name { get; set; }
         public DateTime CreationDate { get; set; }
         public DateTime CompletionDate { get; set; }
@@ -17,8 +17,8 @@ namespace MyManager.Database
 
     partial class Task
     {
-        [PrimaryKeyAttribute] public int Key { get; set; }
-        [ForeignKeyAttribute] public int ProjectKey { get; set; }
+        [PrimaryKey] public int Key { get; set; }
+        [ForeignKey] public int ProjectKey { get; set; }
         public string Name { get; set; }
         public DateTime CreationDate { get; set; }
         public DateTime CompletionDate { get; set; }
@@ -27,8 +27,8 @@ namespace MyManager.Database
 
     partial class Activity
     {
-    	[PrimaryKeyAttribute] public int Key { get; set; } 
-    	[ForeignKeyAttribute] public int ProjectKey { get; set; }
+    	[PrimaryKey] public int Key { get; set; } 
+    	[ForeignKey] public int ProjectKey { get; set; }
     	public string Name { get; set; }
     	public DateTime CreationDate { get; set; }
     	public DateTime CompletionDate { get; set; }
@@ -40,14 +40,14 @@ namespace MyManager.Database
     
     partial class Dependency
     {
-    	[PrimaryKeyAttribute] public int Key { get; set; }
-    	[ForeignKeyAttribute] public int PredecessorKey { get; set; }
-    	[ForeignKeyAttribute] public int SuccessorKey { get; set; }    	
+    	[PrimaryKey] public int Key { get; set; }
+    	[ForeignKey] public int PredecessorKey { get; set; }
+    	[ForeignKey] public int SuccessorKey { get; set; }    	
     }
 
     partial class Goal
     {
-    	[PrimaryKeyAttribute] public int Key { get; set; }
+    	[PrimaryKey] public int Key { get; set; }
     	public string Name { get; set; }
         public string Description { get; set; }
     	public DateTime CreationDate { get; set; }

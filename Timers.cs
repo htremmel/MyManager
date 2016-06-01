@@ -27,7 +27,7 @@ namespace MyManager
 
         public void Pause()
         {
-            EndTime = DateTime.Now;
+            CurrentTimer.Stop();
         }
 
         public void Reset()
@@ -37,8 +37,15 @@ namespace MyManager
 
         public void Start()
         {
-            StartTime = DateTime.Now;
-            base.Start();
+
+        }
+
+        async void AsyncStart()
+        {
+            foreach (var t in timers)
+            {
+                t.Start();
+            }
         }
 
         public Log ToLog(MyManager.Database.Task task)

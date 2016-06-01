@@ -47,7 +47,6 @@ namespace MyManager.Database
 
     public partial class Goal: IEquatable<Goal>
     {
-
         public bool Equals(Goal other)
         {
             if (other.Key.Equals(this.Key)) return true;
@@ -57,13 +56,10 @@ namespace MyManager.Database
 
     public partial class Log: IEquatable<Log>
     {
-
         public bool Equals(Log other)
         {
             if (other.Key.Equals(this.Key)) return true;
             return false;
         }
     }
-
-
 }

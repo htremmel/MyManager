@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="LibraryTests\DatabaseConnectionTests.cs" />
     <Compile Include="LibraryTests\DataobjectsTests.cs" />
+    <Compile Include="LibraryTests\LearningTests.cs" />
     <Compile Include="LibraryTests\TimerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WPFTests\InterfaceTests.cs" />

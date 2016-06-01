@@ -1,16 +1,13 @@
-﻿/*
- * Created by SharpDevelop.
- * User: HTREMMEL
- * Date: 05/26/2016
- * Time: 10:36
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
-using System;
+﻿using System;
 using System.Windows;
 
 namespace MyManager.Controller
 {
+
+    public class IController
+    {
+
+    }
 	/// <summary>
 	/// Description of Controllers.
 	/// </summary>
